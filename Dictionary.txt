@@ -1,0 +1,7 @@
+Тигр;Tyger
+Страх;Fear
+Ты;You
+Взор;eye
+Он;He
+Был;Was
+Час;Hour
